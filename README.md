@@ -87,7 +87,7 @@ Please download and place them in your project directory before running the app:
 ## 📸 Screenshots
 
 ### 🔹 Home Page
-![Home Page](sample_images/)
+![Home Page](sample_images/Screenshot%202025-07-16%20105339.png)
 
 ### 🔹 Prediction Output
 ![Prediction](sample_images/)
