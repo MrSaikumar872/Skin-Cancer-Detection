@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+keras
+pandas
+numpy
+matplotlib
+opencv-python
+fpdf
+psycopg2-binary
+Pillow
