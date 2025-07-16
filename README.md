@@ -90,6 +90,6 @@ Please download and place them in your project directory before running the app:
 ![Home Page](sample_images/Screenshot%202025-07-16%20105339.png)
 
 ### 🔹 Prediction Output
-![Prediction](sample_images/)
+![Prediction](sample_images/Screenshot%202025-04-17%20072724.png)
 
 
