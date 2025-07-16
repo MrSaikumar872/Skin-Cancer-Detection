@@ -84,3 +84,12 @@ Please download and place them in your project directory before running the app:
 
 📁 **Place both files in the same folder as your `app3_fixed.py` script.**
 
+## 📸 Screenshots
+
+### 🔹 Home Page
+![Home Page](sample_images/)
+
+### 🔹 Prediction Output
+![Prediction](sample_images/)
+
+
